@@ -16,3 +16,8 @@ We shall be using F1 score to evaluate our model performance. This is because th
 ## Architectures Implemneted 
 - CRNN with Inception Block 
 - CRNN with ResNet50 Block  
+
+## Files
+- **Project Report** - This was Report was part of the project submission
+- **ANN_Project_Main** - IPython notebook with the entire code with comments 
+- **util** - File with all the code
